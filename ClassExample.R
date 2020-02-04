@@ -12,3 +12,8 @@ print("A third line")
 print("Hello Jin")
 
 print("Hello Alper Sukru Gencer")
+
+
+
+
+print("Bye bye Jin")
