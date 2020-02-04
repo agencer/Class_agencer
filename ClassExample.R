@@ -1,1 +1,1 @@
-print("CONFLICT!!")
+print("C00NFLICT!!")
