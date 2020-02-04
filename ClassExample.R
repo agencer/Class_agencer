@@ -1,1 +1,4 @@
-print("C00NFLICT!!")
+<<<<<<< HEAD
+=======
+print("CONFLICTS!!")
+>>>>>>> origin/NEWNEW
